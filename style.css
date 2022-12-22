@@ -287,6 +287,13 @@ body{
         left: 85px;
         top: 25px;
     }
+
+    .hour span{
+        height: 80px;
+        width: 6px;
+        background:rgb(10, 71, 141);
+        margin-top: -45px;
+    }
     
 }
 
