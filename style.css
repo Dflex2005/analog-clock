@@ -158,7 +158,7 @@ body{
     height: 80px;
     width: 6px;
     background:rgb(10, 71, 141);
-    margin-top: -25px;
+    margin-top: -30px;
 }
 
 .mins{
@@ -288,14 +288,22 @@ body{
         top: 25px;
     }
 
-  .hour{
-    top: 30%;
-    left: 10%;
+  .hour .fa-angle-up{
+    margin-top: -30px;
   }
 
   .hour span{
-    margin-top: -5px;
+    margin-top: -30px;
   }
+
+  .min .fa-angle-up{
+    margin-top: -30px;
+  }
+
+  .min span{
+    margin-top: -25px;
+  }
+
     
 }
 
