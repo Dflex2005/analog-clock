@@ -288,12 +288,14 @@ body{
         top: 25px;
     }
 
-    .hour span{
-        height: 80px;
-        width: 6px;
-        background:rgb(10, 71, 141);
-        margin-top: -45px;
-    }
+  .hour{
+    top: 30%;
+    left: 10%;
+  }
+
+  .hour span{
+    margin-top: -5px;
+  }
     
 }
 
